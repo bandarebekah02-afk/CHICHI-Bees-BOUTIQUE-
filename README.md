@@ -1,118 +1,96 @@
-# 1             <p>
-                We sell simple and comfortable clothing made from
-                linen, wool and silk.
-            </p>
-            <a href="#collection">View Our Collection</a>
-        </section>
+# 
+Brian-Mulenga
+Repository navigation
+Code
+Issues
+Pull requests
+0 stars
+0 forks
+0 watching
+1 branch
+0 tags
+Activity
+Public repository
+Name	
+BryanMulenga
+BryanMulenga
+3 hours ago
+README.md
+4 hours ago
+assignment.html
+3 hours ago
+Repository files navigation
+README
+Question 2: HTML Elements
 
-        <hr>
+2.1 Which 5 elements did you find most challenging and why?
 
-        <section id="collection">
-            <h2>Our Collection</h2>
+<> – ensuring proper input types and validation.
 
-            <article>
-                <h3>Field Shirt</h3>
-                <p>Material: 100% Belgian Linen</p>
-                <p>Price: K3,300</p>
-                <p>46 available</p>
-            </article>
+– aligning rows and columns correctly.
+– embedding and controlling playback.
 
-            <article>
-                <h3>Selvage Trouser</h3>
-                <p>Material: 92% Wool, 8% Mohair</p>
-                <p>Price: K5,000</p>
-                <p>36 available</p>
-            </article>
+<iframe> – embedding external content securely.
+2.2 How did you use sematic element:
 
-            <article>
-                <h3>Washed Silk Slip</h3>
-                <p>Material: 100% Silk</p>
-                <p>Price: K4,200</p>
-                <p>38 available</p>
-            </article>
+for the navigation bar,
+for grouping related content, for project descriptions, for contact details. This improved readability and accessibility.
+2.3 Which element was mostly useful for oragnising your layout and why?
 
-            <article>
-                <h3>Overdyed Vest</h3>
-                <p>Material: 100% Boiled Wool</p>
-                <p>Price: K3,600</p>
-                <p>19 available</p>
-            </article>
+was the most useful for organizing layout because it allowed me to group elements and apply structure consistently.
+Question 3: HTML Attributes 3.1 Which 3 attributes were essential for making your website functional?
 
-            <article>
-                <h3>Cropped Field Jacket</h3>
-                <p>Material: 100% Waxed Linen</p>
-                <p>Price: K5,400</p>
-                <p>55 available</p>
-            </article>
+href in for navigation.
 
-            <article>
-                <h3>Ink Wool Scarf</h3>
-                <p>Material: 100% Merino Wool</p>
-                <p>Price: K1,750</p>
-                <p>5 available</p>
-            </article>
-        </section>
+src in  for linking media like images.
 
-        <hr>
+type in for correct form functionality.
 
-        <section id="about">
-            <h2>About Us</h2>
+3.2 How did you use class and id attribute differently?:
+I used class for styling groups of elements (e.g., multiple buttons) and id for unique identifiers (e.g., navigation bar).
 
-            <p>
-                Chiluya Online buoutique creates clothing in small batches.
-                We focus on quality materials and simple designs.
-            </p>
+3.3 Which attribute helped improve user experience the most and why? The alt attribute in  improved accessibility by providing descriptions for screen readers.
 
-            <h3>Our Principles</h3>
+Question 4: Development Process
 
-            <ul>
-                <li>Quality fabrics</li>
-                <li>Small production runs</li>
-                <li>Comfortable clothing</li>
-                <li>Simple designs</li>
-            </ul>
-        </section>
+Planning:
+I sketched a wireframe of the website, dividing it into sections (header, main, footer).
 
-        <hr>
+What was your approach to tessting and debugging your HTML?:
+I tested the site in multiple browsers and used the W3C HTML Validator to check for errors.
 
-        <section>
-            <h2>Our Workshop</h2>
+Challenges & Solutions:
 
-            <p>
-                Our clothing is cut and sewn by a small team.
-                Every piece is carefully made before it is sold.
-            </p>
+Difficulty aligning elements → solved using semantic structure and nesting.
 
-            <ul>
-                <li>5 people at the workshop</li>
-                <li>7 clothing lots this year</li>
-                <li>Small-batch production</li>
-            </ul>
-        </section>
+Embedding media → resolved by carefully applying attributes like controls and autoplay.
 
-        <hr>
+Question 5: Git & GitHub Implementation
 
-        <section id="contact">
-            <h2>Join Our Mailing List</h2>
+What Git commands did you use during development?
+git init to initialize the repository.
 
-            <form>
-                <label for="email">Email Address:</label>
-                <input type="email" id="email" name="email" required>
+git add . to stage changes.
 
-                <button type="submit">Join</button>
-            </form>
-        </section>
+git commit -m "Initial commit" to save progress.
 
-    </main>
+git push origin main to upload files.
 
-    <hr>
+How many commits did you make and what was your commit message strategy? I made multiple commits after completing each section (e.g., "Added portfolio section"). This ensured clear version history.
 
-    <footer>
-        <h3>Chiluya Online buoutique</h3>
-        <p>Small-batch clothing in linen, wool and silk.</p>
-        <p>Prices are in Zambian Kwacha.</p>
-        <p>&copy; 2026 Chiluya Online buoutique</p>
-    </footer>
+Why is version control important for web development projects? Git allows tracking changes, collaboration, and rollback to previous versions, which is critical in web development.
 
-</body>
-</html>
+Question 6: Code Quality & Best Practices
+
+How did you ensure your HTML was valid and error?
+I used the W3C Validator and tested across browsers.
+
+What best practises did you follow for wriiting clean, readable code?
+
+Proper indentation and comments.
+
+Semantic tags for clarity.
+
+Meaningful commit messages.
+
+How would your website if you had more time? If given more time, I would add CSS styling for better design, improve responsiveness, and include more interactive features.
