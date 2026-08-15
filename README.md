@@ -1,26 +1,4 @@
-# 
-Brian-Mulenga
-Repository navigation
-Code
-Issues
-Pull requests
-0 stars
-0 forks
-0 watching
-1 branch
-0 tags
-Activity
-Public repository
-Name	
-BryanMulenga
-BryanMulenga
-3 hours ago
-README.md
-4 hours ago
-assignment.html
-3 hours ago
-Repository files navigation
-README
+
 Question 2: HTML Elements
 
 2.1 Which 5 elements did you find most challenging and why?
