@@ -1,33 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chiluya Online buoutique Clothing Store</title>
-</head>
-
-<body>
-
-    <header>
-        <div class="logo">Chiluya Online buoutique</div>
-        <h1>Chiluya Online buoutique</h1>
-        <p>Small-Batch Natural Clothing</p>
-
-        <nav>
-            <a href="#home">Home</a> |
-            <a href="#collection">Collection</a> |
-            <a href="#about">About</a> |
-            <a href="#contact">Contact</a>
-        </nav>
-    </header>
-
-    <hr>
-
-    <main>
-
-        <section id="home">
-            <h2>Welcome to Chiluya Online buoutique</h2>
-            <p>
+# 1             <p>
                 We sell simple and comfortable clothing made from
                 linen, wool and silk.
             </p>
